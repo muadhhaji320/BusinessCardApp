@@ -21,7 +21,7 @@ class Home extends StatelessWidget {
           const Center(
             child: CircleAvatar(
               radius: 50,
-              backgroundImage: AssetImage('images/ahmed.jpeg'),
+              backgroundImage: AssetImage('images/ahmed.jpg'),
             ),
           ),
         const  SizedBox(
