@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
             height: 12.0,
           ),
           Text(
-            'Ahmed Mohamed',
+            'Ahmed Abdirahman',
             style: GoogleFonts.pacifico(fontSize: 22.0,color: Colors.white) ,
           ),
         const  SizedBox(
@@ -53,7 +53,7 @@ class Home extends StatelessWidget {
                 SizedBox(
                   width: 12.0,
                 ),
-                Text('+252619855422')
+                Text('+252615568741')
               ],
             ),
           ),
@@ -70,7 +70,7 @@ class Home extends StatelessWidget {
                 SizedBox(
                   width: 12.0,
                 ),
-                Text('ahmeddhaqan11@gmail.com')
+                Text('muadhhaji320@gmail.com')
               ],
             ),
           )
